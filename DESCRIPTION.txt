@@ -1,0 +1,10 @@
+NIMAKO ADU-YEBOAH
+UEB3201122
+Bsc. Information Technology D
+
+Project
+STOCK MANAGEMENT SYSTEM
+The Stock Management System in C++ is a program designed to help businesses manage their stock levels. It tracks the current inventory of products and allows users to add, delete, modify items in the inventory. Technologies uesed in this project include C++ and SQLite 
+The Stock Management is a powerful tool that can help store and managers keep track of their stock allowing them to make most their resources. 
+
+  
